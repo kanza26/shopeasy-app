@@ -48,7 +48,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>🛒 ShopEasy</h1>
+      <h1>🛒 ShopEasy - AUTO DEPLOY</h1>
       <div className="products">
         {products.map((p) => (
           <div key={p.id} className="product">
